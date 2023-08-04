@@ -37,7 +37,7 @@
     ], [
        "&trans",   "&trans",    "&trans",    "&trans",        "&trans",   "&trans",           "&trans",                                                             "&trans",        "&trans",      "&trans",          "&trans",      "&trans", "&trans", "&trans",
        "&trans",   "&trans", "&kp LC(X)",   "&kp END",        "&trans",   "&trans",           "&trans",                                                             "&trans",     "&kp LC(V)", "&kp PAGE_UP",         "&kp TAB",      "&trans", "&kp UP", "&trans",
-       "&trans", "&kp HOME",    "&trans",   "&kp DEL",     "&kp RIGHT",   "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&kp BACKSPACE",   "&kp LG(J)",       "&kp K_CUT",   "&kp LG(H)", "&trans", "&trans",
+       "&trans", "&kp HOME",    "&trans",   "&kp DEL",     "&kp RIGHT",   "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&kp BACKSPACE",   "&kp LG(J)",       "&kp K_CUT",   "&kp LG(O)", "&trans", "&trans",
        "&trans",   "&trans",    "&trans", "&kp LC(C)", "&kp PAGE_DOWN", "&kp LEFT",                               "&trans",                     "&trans",                          "&kp DOWN",   "&kp ENTER", "&kp LC(LS(TAB))", "&kp LC(TAB)", "&trans", "&trans",
        "&trans",   "&trans",    "&trans",    "&trans",        "&trans",                       "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                       "&trans",          "&trans",      "&trans", "&trans", "&trans"
     ]
